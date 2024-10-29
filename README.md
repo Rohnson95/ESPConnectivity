@@ -6,7 +6,6 @@ This project is a Proof of Concept (PoC) for remotely monitoring temperature and
 
 ## Table of Contents
 - [Setup Instructions](#setup-instructions)
-- [Running the Code](#running-the-code)
 - [PoC Documentation](#poc-documentation)
   - [1. Inledning](#1-inledning)
   - [2. Systemarkitektur](#2-systemarkitektur)
@@ -29,7 +28,7 @@ To run this project, you'll need to set up your WiFi credentials, InfluxDB token
    #define WIFI_PASSWORD "your_wifi_password"
    #define INFLUXDB_TOKEN "your_influxdb_token"
    #define INFLUXDB_IP "your_influxdb_ip"
-``
+
 
 # **Systemspecificering för IoT-baserad Temperatur- och Luftfuktighetsövervakning**
 
