@@ -13,7 +13,6 @@ This project is a Proof of Concept (PoC) for remotely monitoring temperature and
   - [4. Skalbarhet och Framtida Utveckling](#4-skalbarhet-och-framtida-utveckling)
   - [5. Hosting och Certifikathantering](#5-hosting-och-certifikathantering)
   - [6. Grafana Dashboard](#6-grafana-dashboard)
-- [Screenshots](#screenshots)
 
 ---
 
