@@ -2,7 +2,8 @@
 
 ## Project Description
 
-This project is a Proof of Concept (PoC) for remotely monitoring temperature and humidity using an ESP8266 and a DHT11 sensor, with data visualization in Grafana. This PoC also outlines a future HTTPS implementation plan to meet Cyber Resilience Act (CRA) requirements.
+Detta projekt är en Proof of Concept (PoC) för fjärrövervakning av temperatur och luftfuktighet med hjälp av en ESP8266 och en DHT11-sensor, där data visualiseras i Grafana. Denna PoC beskriver även en framtida plan för att implementera HTTPS för att uppfylla kraven i Cyber Resilience Act (CRA).
+
 
 ## Table of Contents
 - [Setup Instructions](#setup-instructions)
